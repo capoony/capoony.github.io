@@ -158,9 +158,9 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 ### Creator
 
-**Michael Rose**
+**Wayne Wesley**
 
-- <https://mademistakes.com>
+- <https://minimal-mistakes.github.io/minimal-mistakes/>
 - <https://twitter.com/minimal-mistakes>
 - <https://github.com/minimal-mistakes>
 
@@ -190,7 +190,7 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 The MIT License (MIT)
 
-Copyright (c) 2013-2020 Michael Rose and contributors
+Copyright (c) 2013-2020 Wayne Wesley and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -3,8 +3,8 @@ message: >-
   @Harry It's a bug in how Jekyll handles related posts. See this [pull request
   on GitHub](https://github.com/minimal-mistakes/minimal-mistakes/pull/978) for the
   fix. I haven't merged it yet for a variety of reasons.
-name: Michael Rose
+name: Wayne Wesley
 email: 1ce71bc10b86565464b612093d89707e
-url: 'https://mademistakes.com'
+url: 'https://minimal-mistakes.github.io/minimal-mistakes/'
 hidden: ''
 date: '2017-07-16T14:22:54.082Z'

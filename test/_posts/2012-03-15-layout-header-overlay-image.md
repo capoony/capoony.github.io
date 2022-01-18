@@ -7,7 +7,7 @@ header:
     - label: "Call to action 1"
       url: "https://github.com"
     - label: "Call to action 2"
-      url: "https://mademistakes.com"
+      url: "https://minimal-mistakes.github.io/minimal-mistakes/"
 categories:
   - Layout
   - Uncategorized

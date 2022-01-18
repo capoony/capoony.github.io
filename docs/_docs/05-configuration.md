@@ -144,7 +144,7 @@ _Example:_ `subtitle: "Version 2.0"`
 
 Used to assign a site author. Don't worry, you can override the site author with different ones on specific posts, pages, or collection documents.
 
-_Example:_ `name: "Michael Rose"`.
+_Example:_ `name: "Wayne Wesley"`.
 
 **ProTip:** If you want to get crafty with your YAML you can use [anchors](http://www.yaml.org/spec/1.2/spec.html#id2785586) to reuse values. For example `foo: &var "My String"` allows you to reuse `"My String"` elsewhere in `_config.yml` like so... `bar: *var`. You'll see a few examples of this in the provided Jekyll config.
 {: .notice--info}
@@ -157,7 +157,7 @@ _Example:_ `description: "A flexible Jekyll theme for your blog or site with a m
 
 ### Site URL
 
-The base hostname and protocol for your site. If you're hosting with GitHub Pages this will be something like `url: "https://minimal-mistakes.github.io"` or `url: "https://mademistakes.com"` if you have a custom domain name.
+The base hostname and protocol for your site. If you're hosting with GitHub Pages this will be something like `url: "https://minimal-mistakes.github.io"` or `url: "https://minimal-mistakes.github.io/minimal-mistakes/"` if you have a custom domain name.
 
 GitHub Pages now [forces `https://` for new sites](https://help.github.com/articles/securing-your-github-pages-site-with-https/) so be mindful of that when setting your URL to avoid mixed-content warnings.
 
@@ -912,7 +912,7 @@ author:
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://minimal-mistakes.github.io/minimal-mistakes/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/minimal-mistakes"

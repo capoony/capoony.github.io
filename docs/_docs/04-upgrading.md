@@ -12,8 +12,8 @@ To check which version you are currently using, view the source of your built si
 
 ```
 <!--
-  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @minimal-mistakes
+  Minimal Mistakes Jekyll Theme 4.24.0 by Wayne Wesley
+  Copyright 2013-2020 Wayne Wesley - https://minimal-mistakes.github.io/minimal-mistakes/ | @minimal-mistakes
   Free for personal and commercial use under the MIT license
   https://github.com/minimal-mistakes/minimal-mistakes/blob/master/LICENSE
 -->
