@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Welcome to Martin Kapun's Github Page
+title: Hello!
 toc: true
 toc_icon: "cog"
 classes:
